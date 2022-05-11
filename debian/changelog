@@ -1,0 +1,64 @@
+festival-spanish-voices (1.1.0-llx21) focal; urgency=medium
+
+  * Focal release
+
+ -- Juanma1980 <juanma1980@gmail.com>  Wed, 11 May 2022 17:58:36 +0200
+
+festival-spanish-voices (1.1.0) xenial; urgency=high
+
+  * To Xenial 
+
+ -- Jose A. Murcia <joamuran@gmail.com> Wed, 14 Mar 2018 12:43:55 +0100
+
+festival-spanish-voices (1.0.0+lliurex16) precise; urgency=low
+
+  * To Pandora
+
+ -- Angel Berlanas Vicente <angel.berlanas@gmail.com>  Wed, 12 Dec 2012 08:08:49 +0100
+
+festival-spanish-voices (1.0.0+lliurex14) lucid; urgency=low
+
+  * ToNemo
+
+ -- Angel Berlanas Vicente <lliurex_devel2@edu.gva.es>  Thu, 23 Feb 2012 10:27:46 +0100
+
+festival-spanish-voices (1.0.0+lliurex13) unstable; urgency=low
+
+  * Uploaders Fixed
+  * Nemo version
+
+ -- Angel Berlanas Vicente <lliurex_devel2@edu.gva.es>  Tue, 31 Jan 2012 12:30:20 +0100
+
+festival-spanish-voices (1.0.0+lliurex12) unstable; urgency=low
+
+  * First Leia version 
+
+ -- Alfons Lloret Sananton <lliurex_devel5@edu.gva.es>  Tue, 23 Mar 2010 17:34:44 +0100
+
+festival-spanish-voices (1.0.0+lliurex11) unstable; urgency=low
+
+  * Fixed a minor bug
+
+ -- Angel Berlanas Vicente <aberlanas.gva@gmail.com>  Mon, 24 Nov 2008 13:03:35 +0100
+
+festival-spanish-voices (1.0.0+lliurex10) unstable; urgency=low
+
+  * First Release for Indy
+
+ -- Angel Berlanas Vicente <aberlanas.gva@gmail.com>  Mon, 24 Nov 2008 12:50:19 +0100
+
+festival-spanish-voices (1.0.0+lliurex1) unstable; urgency=low
+
+  * First Release for Gutsy Gibbon Release
+
+ -- Angel Berlanas Vicente <aberlanas.gva@gmail.com>  Mon, 24 Nov 2008 10:34:32 +0100
+
+festival-spanish-voices (1.0.0) unstable; urgency=low
+
+  [ Junta de Andalucía ]
+  * Initial release.
+
+  [ Angel Berlanas Vicente ]
+  * Uploaders Fixed
+
+ -- Angel Berlanas Vicente <aberlanas.gva@gmail.com>  Mon, 24 Nov 2008 10:29:46 +0100
