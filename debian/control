@@ -7,7 +7,7 @@ Standards-Version: 3.9.3
 
 Package: festvox-palpc16k
 Architecture: all
-Depends: ${misc:Depends}, festival (>= 1.96~beta-10ubuntu1)
+Depends: ${misc:Depends}, festival (>= 1:2.5.0-10)
 Conflicts: lliurex-festival-voices (<= 0.5)
 Description: Male Spanish voice for Festival
  This is a diphone-based male Spanish voice for the Festival speech
@@ -27,7 +27,7 @@ Description: Male Spanish voice for Festival
 
 Package: festvox-sflpc16k
 Architecture: all
-Depends: ${misc:Depends}, festival (>= 1.96~beta-10ubuntu1)
+Depends: ${misc:Depends}, festival (>= 1:2.5.0-10)
 Conflicts: lliurex-festival-voices (<=  0.5)
 Description: Female spanish voice for Festival
  This is a diphone-based male Spanish voice for the Festival speech
